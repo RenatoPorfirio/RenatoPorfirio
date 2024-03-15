@@ -24,6 +24,8 @@
 - SQL
 - Typescript
 
+***
+
 ## Frameworks e Bibliotecas
 
 - Express (Javascript)
