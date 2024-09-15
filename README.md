@@ -1,4 +1,4 @@
-[![GitHub stats](![RenatoPorfirio's Stats](https://github-readme-stats.vercel.app/api?username=RenatoPorfirio&theme=vue-dark&show_icons=true&hide_border=false&count_private=true))](https://github.com/RenatoPorfirio/github-readme-stats)
+![RenatoPorfirio's Stats](https://github-readme-stats.vercel.app/api?username=RenatoPorfirio&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 # Interesses 🔭
   * ### Sistemas Embarcados
   * ### Programação em baixo nível
