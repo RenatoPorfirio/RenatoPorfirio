@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="80%" src="https://github-readme-stats-renato-porfirios-projects.vercel.app/api?username=RenatoPorfirio&theme=cobalt&show_icons=true&hide_border=false&count_private=true" />
+  <img width="70%" src="https://github-readme-stats-renato-porfirios-projects.vercel.app/api?username=RenatoPorfirio&theme=cobalt&show_icons=true&hide_border=false&count_private=true" />
 </p>
 <p align="center">
-  <img width="80%" src="https://github-readme-stats-renato-porfirios-projects.vercel.app/api/top-langs/?username=RenatoPorfirio&theme=vue-dark&layout=compact" />
+  <img width="70%" src="https://github-readme-stats-renato-porfirios-projects.vercel.app/api/top-langs/?username=RenatoPorfirio&theme=vue-dark&layout=compact" />
 </p>
 
  # Interesses 🔭
