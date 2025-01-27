@@ -1,5 +1,9 @@
-![RenatoPorfirio's Stats](https://github-readme-stats.vercel.app/api?username=RenatoPorfirio&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-# Interesses 🔭
+
+<img align="center" src="https://github-readme-stats-renato-porfirios-projects.vercel.app/api?username=RenatoPorfirio&theme=cobalt&show_icons=true&hide_border=false&count_private=true" />
+<img align="center" src="https://github-readme-stats-renato-porfirios-projects.vercel.app/api/top-langs/?username=RenatoPorfirio&theme=vue-dark&layout=pie" />
+
+
+ # Interesses 🔭
   * ### Sistemas Embarcados
   * ### Programação em baixo nível
   * ### Desenvolvimento back-end
