@@ -22,6 +22,7 @@
 
 - C
 - C++
+- C#
 - Haskell
 - HTML
 - Java
